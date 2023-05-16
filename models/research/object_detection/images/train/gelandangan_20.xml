@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gelandangan</folder>
+	<filename>gelandangan_20.jpeg</filename>
+	<path>D:\PROGRAMMING_JOURNEY\THE_PROJECTS\TensorFlowJS\Test_Custom_Object_2\simple_images\gelandangan\gelandangan_20.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1039</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gelandangan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>6</ymin>
+			<xmax>736</xmax>
+			<ymax>1039</ymax>
+		</bndbox>
+	</object>
+</annotation>

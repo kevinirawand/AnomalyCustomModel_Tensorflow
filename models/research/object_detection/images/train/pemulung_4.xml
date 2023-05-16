@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pemulung</folder>
+	<filename>pemulung_4.jpeg</filename>
+	<path>D:\PROGRAMMING_JOURNEY\THE_PROJECTS\TensorFlowJS\Test_Custom_Object_2\simple_images\pemulung\pemulung_4.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pemulung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>100</ymin>
+			<xmax>487</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

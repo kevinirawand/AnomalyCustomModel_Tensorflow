@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pengemis</folder>
+	<filename>pengemis_15.jpeg</filename>
+	<path>D:\PROGRAMMING_JOURNEY\THE_PROJECTS\TensorFlowJS\Test_Custom_Object_2\simple_images\pengemis\pengemis_15.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>113</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gelandangan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>132</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

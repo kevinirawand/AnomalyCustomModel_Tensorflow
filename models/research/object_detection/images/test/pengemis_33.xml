@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pengemis</folder>
+	<filename>pengemis_33.jpeg</filename>
+	<path>D:\PROGRAMMING_JOURNEY\THE_PROJECTS\TensorFlowJS\Test_Custom_Object_2\simple_images\pengemis\pengemis_33.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pemulung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>91</ymin>
+			<xmax>343</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
